@@ -1,2 +1,2 @@
 # ada_lovelace
-Tarefa do programa Descodificadas: Ada Lovelace
+Exercício do programa Descodificadas: Ada Lovelace
